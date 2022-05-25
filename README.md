@@ -1,1 +1,1 @@
-# S16-DISCRETAS
+# Algoritmo de Prim
